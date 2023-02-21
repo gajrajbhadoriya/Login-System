@@ -1,0 +1,19 @@
+{
+    "name": "sonus/login-system",
+    "description": "login-System",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ronak"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+    "autoload" : {
+        "psr-4" : {
+            "App\\": "src/"
+        }
+    }
+}
